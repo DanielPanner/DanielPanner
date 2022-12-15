@@ -5,15 +5,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielpanner&label=Profile%20views&color=0e75b6&style=flat" alt="danielpanner" /> </p>
 
-<p align="left">- 🔭 I’m currently working on **Freelance**</p>
+<h5 align="right">🔭 I’m currently working on **Freelance**</h5>
+<h5 align="right">🌱 I’m currently learning **Javascript, Typescript, React</h5>
+<h5 align="right">👨‍💻 All of my projects are available at [Breve!]</h5>
+ <h5 align="right">📫 How to reach me **danielpaner@live.com**</h5>
 
-<p align="left">- 🌱 I’m currently learning **Javascript, Typescript, React</p>
-<div align="right"><a href="https://www.linkedin.com/in/daniel-souza-72a9b3231/" target="_blank"><img src="https://user-images.githubusercontent.com/33014753/207775866-664b847a-7cdd-44f9-b863-398f9db39749.gif" style="border-radius: 30px" target="_blank"></a> 
-
-
-<p align="left">- 👨‍💻 All of my projects are available at [Breve!](Breve!)</p>
-
-<p align="left">- 📫 How to reach me **danielpaner@live.com**</p>
+<p align="left"></p>
 
 <h3 align="center">Connect with me:</h3></p>
 <div align="center"> 
@@ -23,8 +20,6 @@
 <a href="https://www.linkedin.com/in/daniel-souza-72a9b3231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 
