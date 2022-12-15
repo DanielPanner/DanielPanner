@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel S. Souza</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+![piu2](https://user-images.githubusercontent.com/33014753/207770316-277b100e-ea03-4363-b478-87b9ef6b8e1b.gif)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielpanner&label=Profile%20views&color=0e75b6&style=flat" alt="danielpanner" /> </p>
 
