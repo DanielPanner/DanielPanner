@@ -8,6 +8,7 @@
 <p align="left">- 🔭 I’m currently working on **Freelance**</p>
 
 <p align="left">- 🌱 I’m currently learning **Javascript, Typescript, React</p>
+<div align="right"><a href="https://www.linkedin.com/in/daniel-souza-72a9b3231/" target="_blank"><img src="https://user-images.githubusercontent.com/33014753/207775866-664b847a-7cdd-44f9-b863-398f9db39749.gif" style="border-radius: 30px" target="_blank"></a> 
 
 
 <p align="left">- 👨‍💻 All of my projects are available at [Breve!](Breve!)</p>
