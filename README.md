@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielpanner&label=Profile%20views&color=0e75b6&style=flat" alt="danielpanner" /> </p>
 
 <h5 align="right">🔭 I’m currently working on **Freelance**</h5>
-<h5 align="right">🌱 I’m currently learning **Javascript, Typescript, React</h5>
+<h5 align="right">🌱 I’m currently learning **Javascript, Typescript, React, Html, Css</h5>
 <h5 align="right">👨‍💻 All of my projects are available at [Breve!]</h5>
  <h5 align="right">📫 How to reach me **danielpaner@live.com**</h5>
 
