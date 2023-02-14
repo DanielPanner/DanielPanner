@@ -1,6 +1,5 @@
-![piu2](https://user-images.githubusercontent.com/33014753/207770316-277b100e-ea03-4363-b478-87b9ef6b8e1b.gif)
 
-
+![panner](https://user-images.githubusercontent.com/33014753/218853833-f6277964-d5e3-40c9-9e88-a557457bc7d7.png)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielpanner&label=Profile%20views&color=0e75b6&style=flat" alt="danielpanner" /> </p>
