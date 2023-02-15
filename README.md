@@ -3,15 +3,16 @@
 
 <br>
 
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/33014753/218898023-2cda8d10-23fb-4b3f-81b2-fbb04c29d092.jpg">
+<img align="right" width="400" height="430" src="https://user-images.githubusercontent.com/33014753/218898023-2cda8d10-23fb-4b3f-81b2-fbb04c29d092.jpg">
 
-<h5 align="left">🔭 I’m currently working on **Freelance**</h5>
-<h5 align="left">🌱 I’m currently learning **Javascript, Typescript, React, Html, Css</h5>
-
-
-<h5 align="left">👨‍💻 All of my projects are available at [Breve!]</h5>
- <h5 align="left">📫 How to reach me **danielpaner@live.com**</h5>
-<br><br>
+- 🔭 Atualmente estou trabalhando em FreeLancer
+- 
+- 🌱 Atualmente estou aprendendo JAVA
+- 
+- 👯 Estou a procura de ESTÁGIO
+- 
+- 📫 Como entrar em contato comigo: Contatos
+<br>
 
 
 <p align="center">
@@ -32,7 +33,8 @@
 </div>
 
 
-![Snake animation](https://github.com/DanielPanner/DanielPanner/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DanielPanner/DanielPanner/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
