@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" width="400" height="430" src="https://user-images.githubusercontent.com/33014753/218898023-2cda8d10-23fb-4b3f-81b2-fbb04c29d092.jpg">
+<img align="right" width="400" height="530" src="https://user-images.githubusercontent.com/33014753/229891586-bd8776a1-0fe7-49d2-ad09-0c8537597b23.png">
 
 - 🔭 Atualmente estou trabalhando em FreeLancer
 - 
@@ -32,8 +32,6 @@
 <a href="https://www.linkedin.com/in/daniel-souza-72a9b3231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p align="right"> <img src="https://komarev.com/ghpvc/?username=danielpanner&label=Profile%20views&color=0e75b6&style=flat" alt="danielpanner" /> </p>   
 </div>
 
-
- ![Snake animation](https://github.com/DanielPanner/DanielPanner/blob/output/github-contribution-grid-snake.svg)
 
 
 
