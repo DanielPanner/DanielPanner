@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" width="400" height="530" src="https://user-images.githubusercontent.com/33014753/229891586-bd8776a1-0fe7-49d2-ad09-0c8537597b23.png">
+<img align="right" width="400" height="430" src="https://user-images.githubusercontent.com/33014753/229951134-3fb10e08-8f6b-4795-bfa3-714f8b36d5dd.gif">
 
 - 🔭 Atualmente estou trabalhando em FreeLancer
 - 
@@ -13,6 +13,7 @@
 - 
 - 📫 Como entrar em contato comigo: Contatos
 <br>
+
 
 
 <p align="center">
