@@ -4,14 +4,16 @@
 ![Nome da imagem caso ela não carregue](https://user-images.githubusercontent.com/33014753/230753825-47e51cf8-df7f-4745-9909-185222d54864.gif)
   
 </div>
+<br>
 
 <div align="center">
   
 ![Nome da imagem caso ela não carregue](https://user-images.githubusercontent.com/33014753/230753317-765581d9-cf6a-433f-9a49-6c6b9de81b92.gif)
   
+<br>
 
 
-
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/33014753/230757752-2b62a8d4-2238-49d0-a94e-cbf10c3d2a88.gif">
     
 <div align="left">
   <div style="display: inline_block">
@@ -23,12 +25,12 @@
       <br>
       <img src="https://skillicons.dev/icons?i=java,mysql,git,cs" /> 
       <img src="https://skillicons.dev/icons?i=javascript,css,html,ts" />
-    </a>
+    </a><br><br>
 
 
     
     
-
+<br>
     
 <div align="center">
   
