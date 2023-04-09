@@ -9,11 +9,6 @@
   
 ![Nome da imagem caso ela não carregue](https://user-images.githubusercontent.com/33014753/230753317-765581d9-cf6a-433f-9a49-6c6b9de81b92.gif)
   
-</div>
-</n>
-
-
-
 
 
 
@@ -21,19 +16,18 @@
 <div align="left">
   <div style="display: inline_block">
     <a href="[https://skillicons.dev]()">
-      <img align="left" width="110" height="110" src="https://user-images.githubusercontent.com/33014753/230755411-747e62a5-0ced-4be4-9849-e26ab4c20679.gif">
-    </a>
-
-<div align="left">
+      <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/33014753/230755411-747e62a5-0ced-4be4-9849-e26ab4c20679.gif">
+    </a><div align="left">
   <div style="display: inline_block">
-    <a href="[https://skillicons.dev]()">
+      <img src="https://user-images.githubusercontent.com/33014753/230757447-0b4216d4-d1ce-48fc-a576-c99fc6fcc0b6.gif" />
+      <br>
       <img src="https://skillicons.dev/icons?i=java,mysql,git,cs" /> 
-    </a>
-    <div align="left">
-  <div style="display: inline_block">
-    <a href="[https://skillicons.dev]()">
       <img src="https://skillicons.dev/icons?i=javascript,css,html,ts" />
     </a>
+
+
+    
+    
 
     
 <div align="center">
@@ -44,10 +38,7 @@
 
 
 
-<p align="center">
-  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-</p> 
+
 
 
 
