@@ -7,6 +7,17 @@
 
 <div align="center">
   
+![Nome da imagem caso ela não carregue](https://user-images.githubusercontent.com/33014753/230753317-765581d9-cf6a-433f-9a49-6c6b9de81b92.gif)
+  
+</div>
+
+![Design sem nome (4)](https://user-images.githubusercontent.com/33014753/230755411-747e62a5-0ced-4be4-9849-e26ab4c20679.gif)
+
+
+
+
+<div align="center">
+  
 ![Nome da imagem caso ela não carregue](https://user-images.githubusercontent.com/33014753/230753463-428b2c6e-2ac5-4b79-898a-85dd83404836.gif)
   
 </div>
