@@ -15,11 +15,11 @@
 
 <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/33014753/230757752-2b62a8d4-2238-49d0-a94e-cbf10c3d2a88.gif">
     
-<div align="left">
+<div align="center">
   <div style="display: inline_block">
     <a href="[https://skillicons.dev]()">
       <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/33014753/230755411-747e62a5-0ced-4be4-9849-e26ab4c20679.gif">
-    </a><div align="left">
+    </a><div align="center">
   <div style="display: inline_block">
       <img src="https://user-images.githubusercontent.com/33014753/230757447-0b4216d4-d1ce-48fc-a576-c99fc6fcc0b6.gif" />
       <br>
